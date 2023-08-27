@@ -1,4 +1,14 @@
-## Welcome to Stooshiev's GitHub Page
+### Steven Van Hulle's First CS193 Homework
+
+Some of my favorite things about CS193
+
+- I can actually learn how to use github. I've used github before and I've found it very confusing. There are too many types of pages to make sense of them all.
+- I don't need to purchase a textbook or subscribe to a platform just to turn in my homework.
+- The people grading this will probably be fine with ![hackerman](https://i.kym-cdn.com/photos/images/original/001/480/544/6c1.jpg)
+
+### Original Text
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
